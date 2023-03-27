@@ -8,7 +8,7 @@ function TypeMe() {
     }
 
     function changeColor(value) {
-        if(value==true) {
+        if(value===true) {
             return "red"
         }
         else {

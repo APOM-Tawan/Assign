@@ -2,10 +2,10 @@ import Card from "./Card";
 
 function List() {
     const person = [ 
-    {Name:"John Doe", job:"Engineer", hobby: "Listen to music"},
-    {Name:"John Doe", job:"Engineer", hobby: "Listen to music"},
-    {Name:"John Smith", job:"Programmer", hobby: "Running"},
-    {Name:"John Smith", job:"Programmer", hobby: "Running"},
+    {Name:"Tawan", job:"Singer", hobby: "Listen to music"},
+    {Name:"Mark", job:"Accountant", hobby: "Play football"},
+    {Name:"Jay", job:"Steward", hobby: "Play football"},
+    {Name:"IT", job:"Programmer", hobby: "Play football"},
 ];
     return (
        <>
